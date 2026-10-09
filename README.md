@@ -98,8 +98,6 @@ DEVELOPER
 
 Novenda Technologies
 
-Website:
-https://novenda.com
 
 License
 
