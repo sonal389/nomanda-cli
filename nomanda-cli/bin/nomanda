@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# NOMANDA CLI launcher
+cd "$(dirname "$0")/.."
+exec node nomanda.js "$@"
